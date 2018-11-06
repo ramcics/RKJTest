@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/rjrad/Downloads/jar_files (1)/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rjrad/Downloads/jar_files (1)/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rjrad/Downloads/jar_files (1)/commons-lang3-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rjrad/Downloads/jar_files (1)/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rjrad/Downloads/jar_files (1)/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rjrad/Downloads/jar_files (1)/spring-aop-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rjrad/Downloads/jar_files (1)/spring-beans-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rjrad/Downloads/jar_files (1)/spring-context-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rjrad/Downloads/jar_files (1)/spring-core-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rjrad/Downloads/jar_files (1)/spring-expression-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rjrad/Downloads/jar_files (1)/spring-mvc-3.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rjrad/Downloads/jar_files (1)/spring-web-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rjrad/Downloads/jar_files (1)/spring-webmvc-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
